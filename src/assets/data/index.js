@@ -1,24 +1,24 @@
 const Data = [
   {
     id: 1,
-    title: 'As You Were - TrackTribe',
-    artist: 'TrackTribe',
+    title: '11:11 (11 giờ 11 phút)',
+    artist: 'MiiNa',
     thumbnail: require('../images/img01.jpg'),
-    src: require('../musics/As You Were - TrackTribe.mp3')
+    src: require('../musics/11-11 (11 giờ 11 phút)- MiiNa.mp3')
   },
   {
     id: 2,
-    title: 'Coast - Anno Domini Beats',
-    artist: 'Anno Domini Beats',
+    title: 'Until I Found You - Stephen Sanchez & Em Beihold',
+    artist: 'Stephen Sanchez & Em Beihold',
     thumbnail: require('../images/img02.jpg'),
-    src: require('../musics/Coast - Anno Domini Beats.mp3')
+    src: require('../musics/Until I Found You - Stephen Sanchez & Em Beihold.mp3')
   },
   {
     id: 3,
-    title: 'Here it Comes - TrackTribe',
-    artist: 'TrackTribe',
+    title: 'Pano - Zack Tabudlo',
+    artist: 'Zack Tabudlo',
     thumbnail: require('../images/img03.jpg'),
-    src: require('../musics/Here it Comes - TrackTribe.mp3')
+    src: require('../musics/Pano - Zack Tabudlo.mp3')
   },
   {
     id: 4,
