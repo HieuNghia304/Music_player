@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/Music_player/static/css/main.019ceee3.css",
-    "main.js": "/Music_player/static/js/main.95182e50.js",
-    "static/media/Mulholland - King Canyon.mp3": "/Music_player/static/media/Mulholland - King Canyon.1bd15968c3c334b1689d.mp3",
-    "static/media/Silver Waves - TrackTribe.mp3": "/Music_player/static/media/Silver Waves - TrackTribe.c0a958e1a66b53c2062d.mp3",
-    "static/media/It Was a Time - TrackTribe.mp3": "/Music_player/static/media/It Was a Time - TrackTribe.b2e27875ed8e2ae22744.mp3",
+    "main.js": "/Music_player/static/js/main.5e2657c9.js",
+    "static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.mp3": "/Music_player/static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.f7b81bc4646a41285043.mp3",
+    "static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.mp3": "/Music_player/static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.139879abee18d4f0d369.mp3",
     "static/media/Pano - Zack Tabudlo.mp3": "/Music_player/static/media/Pano - Zack Tabudlo.2a29c314b6d42444861d.mp3",
-    "static/media/No Mercy - TrackTribe.mp3": "/Music_player/static/media/No Mercy - TrackTribe.2a62db562bf108c8460f.mp3",
-    "static/media/Put It - TrackTribe.mp3": "/Music_player/static/media/Put It - TrackTribe.31f73c488ec5e3d9d9f7.mp3",
-    "static/media/Read All Over - Nathan Moore.mp3": "/Music_player/static/media/Read All Over - Nathan Moore.6997b281f293ae54d67a.mp3",
+    "static/media/MY EVERYTHING - TIÊN TIÊN.mp3": "/Music_player/static/media/MY EVERYTHING - TIÊN TIÊN.acfe76800160268ae1f2.mp3",
+    "static/media/Bài Dành Cho em Bé Dâu- Moah.mp3": "/Music_player/static/media/Bài Dành Cho em Bé Dâu- Moah.62bd4cf53763d425c860.mp3",
+    "static/media/Before You - Benson Boone.mp3": "/Music_player/static/media/Before You - Benson Boone.7dc88539aa4914b0e470.mp3",
+    "static/media/Cô Gái Này Là Của Bùm-kxr, nhi nhi.mp3": "/Music_player/static/media/Cô Gái Này Là Của Bùm-kxr, nhi nhi.610185f86d5438f9eeac.mp3",
     "static/media/Until I Found You - Stephen Sanchez & Em Beihold.mp3": "/Music_player/static/media/Until I Found You - Stephen Sanchez & Em Beihold.27bf5423b53e4cf063e5.mp3",
     "static/media/11-11 (11 giờ 11 phút)- MiiNa.mp3": "/Music_player/static/media/11-11 (11 giờ 11 phút)- MiiNa.d13347058c4c569e83f6.mp3",
-    "static/media/img03.jpg": "/Music_player/static/media/img03.e6c3cbef712dcc9e38ca.jpg",
+    "static/media/img01.jpg": "/Music_player/static/media/img01.e6c3cbef712dcc9e38ca.jpg",
     "static/media/img05.jpg": "/Music_player/static/media/img05.ea1481e0a206b3ff9e1e.jpg",
+    "static/media/img09.jpg": "/Music_player/static/media/img09.53afcd548e6fa64494d2.jpg",
     "static/media/img04.jpg": "/Music_player/static/media/img04.bbac81614e8d78372a0d.jpg",
     "static/media/img08.jpg": "/Music_player/static/media/img08.6df0dddf497092fb73c1.jpg",
-    "static/media/img01.jpg": "/Music_player/static/media/img01.a46ec46eb6865e1d5d53.jpg",
+    "static/media/img03.jpg": "/Music_player/static/media/img03.a46ec46eb6865e1d5d53.jpg",
     "static/media/img06.jpg": "/Music_player/static/media/img06.6e66521b30238120bdf5.jpg",
     "static/media/img02.jpg": "/Music_player/static/media/img02.9563fb44e34481617eac.jpg",
     "static/media/img07.jpg": "/Music_player/static/media/img07.773fb214876a53cc3fd8.jpg",
     "static/media/bg02.jpg": "/Music_player/static/media/bg02.26a8b694df3069998cae.jpg",
-    "static/media/img09.jpg": "/Music_player/static/media/img09.ffeb8e43c34501eb6170.jpg",
     "index.html": "/Music_player/index.html",
     "main.019ceee3.css.map": "/Music_player/static/css/main.019ceee3.css.map",
-    "main.95182e50.js.map": "/Music_player/static/js/main.95182e50.js.map"
+    "main.5e2657c9.js.map": "/Music_player/static/js/main.5e2657c9.js.map"
   },
   "entrypoints": [
     "static/css/main.019ceee3.css",
-    "static/js/main.95182e50.js"
+    "static/js/main.5e2657c9.js"
   ]
 }
