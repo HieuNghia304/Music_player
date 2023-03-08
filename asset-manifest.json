@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Music_player/static/css/main.019ceee3.css",
+    "main.js": "/Music_player/static/js/main.282afec3.js",
+    "static/media/Mulholland - King Canyon.mp3": "/Music_player/static/media/Mulholland - King Canyon.1bd15968c3c334b1689d.mp3",
+    "static/media/Silver Waves - TrackTribe.mp3": "/Music_player/static/media/Silver Waves - TrackTribe.c0a958e1a66b53c2062d.mp3",
+    "static/media/It Was a Time - TrackTribe.mp3": "/Music_player/static/media/It Was a Time - TrackTribe.b2e27875ed8e2ae22744.mp3",
+    "static/media/No Mercy - TrackTribe.mp3": "/Music_player/static/media/No Mercy - TrackTribe.2a62db562bf108c8460f.mp3",
+    "static/media/Put It - TrackTribe.mp3": "/Music_player/static/media/Put It - TrackTribe.31f73c488ec5e3d9d9f7.mp3",
+    "static/media/Here it Comes - TrackTribe.mp3": "/Music_player/static/media/Here it Comes - TrackTribe.2597722bc87c1b9ea2fb.mp3",
+    "static/media/Read All Over - Nathan Moore.mp3": "/Music_player/static/media/Read All Over - Nathan Moore.6997b281f293ae54d67a.mp3",
+    "static/media/Coast - Anno Domini Beats.mp3": "/Music_player/static/media/Coast - Anno Domini Beats.40dda84aae4b9befbf41.mp3",
+    "static/media/11-11 (11 giờ 11 phút)- MiiNa.mp3": "/Music_player/static/media/11-11 (11 giờ 11 phút)- MiiNa.d13347058c4c569e83f6.mp3",
+    "static/media/img03.jpg": "/Music_player/static/media/img03.e6c3cbef712dcc9e38ca.jpg",
+    "static/media/img05.jpg": "/Music_player/static/media/img05.ea1481e0a206b3ff9e1e.jpg",
+    "static/media/img04.jpg": "/Music_player/static/media/img04.bbac81614e8d78372a0d.jpg",
+    "static/media/img08.jpg": "/Music_player/static/media/img08.6df0dddf497092fb73c1.jpg",
+    "static/media/img01.jpg": "/Music_player/static/media/img01.a46ec46eb6865e1d5d53.jpg",
+    "static/media/img06.jpg": "/Music_player/static/media/img06.6e66521b30238120bdf5.jpg",
+    "static/media/img02.jpg": "/Music_player/static/media/img02.9563fb44e34481617eac.jpg",
+    "static/media/img07.jpg": "/Music_player/static/media/img07.773fb214876a53cc3fd8.jpg",
+    "static/media/bg02.jpg": "/Music_player/static/media/bg02.26a8b694df3069998cae.jpg",
+    "static/media/img09.jpg": "/Music_player/static/media/img09.ffeb8e43c34501eb6170.jpg",
+    "index.html": "/Music_player/index.html",
+    "main.019ceee3.css.map": "/Music_player/static/css/main.019ceee3.css.map",
+    "main.282afec3.js.map": "/Music_player/static/js/main.282afec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019ceee3.css",
+    "static/js/main.282afec3.js"
+  ]
+}
