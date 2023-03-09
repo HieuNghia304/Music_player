@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Music_player/static/css/main.019ceee3.css",
-    "main.js": "/Music_player/static/js/main.5e2657c9.js",
+    "main.js": "/Music_player/static/js/main.ef70ab30.js",
     "static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.mp3": "/Music_player/static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.f7b81bc4646a41285043.mp3",
     "static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.mp3": "/Music_player/static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.139879abee18d4f0d369.mp3",
     "static/media/Pano - Zack Tabudlo.mp3": "/Music_player/static/media/Pano - Zack Tabudlo.2a29c314b6d42444861d.mp3",
     "static/media/MY EVERYTHING - TIÊN TIÊN.mp3": "/Music_player/static/media/MY EVERYTHING - TIÊN TIÊN.acfe76800160268ae1f2.mp3",
-    "static/media/Bài Dành Cho em Bé Dâu- Moah.mp3": "/Music_player/static/media/Bài Dành Cho em Bé Dâu- Moah.62bd4cf53763d425c860.mp3",
+    "static/media/Bài Dành Cho em Bé Dâu- Moah.mp3": "/Music_player/static/media/Bài Dành Cho em Bé Dâu- Moah.448bacc8b79a5185defe.mp3",
     "static/media/Before You - Benson Boone.mp3": "/Music_player/static/media/Before You - Benson Boone.7dc88539aa4914b0e470.mp3",
     "static/media/Cô Gái Này Là Của Bùm-kxr, nhi nhi.mp3": "/Music_player/static/media/Cô Gái Này Là Của Bùm-kxr, nhi nhi.610185f86d5438f9eeac.mp3",
     "static/media/Until I Found You - Stephen Sanchez & Em Beihold.mp3": "/Music_player/static/media/Until I Found You - Stephen Sanchez & Em Beihold.27bf5423b53e4cf063e5.mp3",
@@ -23,10 +23,10 @@
     "static/media/bg02.jpg": "/Music_player/static/media/bg02.26a8b694df3069998cae.jpg",
     "index.html": "/Music_player/index.html",
     "main.019ceee3.css.map": "/Music_player/static/css/main.019ceee3.css.map",
-    "main.5e2657c9.js.map": "/Music_player/static/js/main.5e2657c9.js.map"
+    "main.ef70ab30.js.map": "/Music_player/static/js/main.ef70ab30.js.map"
   },
   "entrypoints": [
     "static/css/main.019ceee3.css",
-    "static/js/main.5e2657c9.js"
+    "static/js/main.ef70ab30.js"
   ]
 }
