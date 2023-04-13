@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Music_player/static/css/main.019ceee3.css",
-    "main.js": "/Music_player/static/js/main.ef70ab30.js",
+    "main.css": "/Music_player/static/css/main.3fca341f.css",
+    "main.js": "/Music_player/static/js/main.203087a2.js",
     "static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.mp3": "/Music_player/static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.f7b81bc4646a41285043.mp3",
     "static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.mp3": "/Music_player/static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.139879abee18d4f0d369.mp3",
+    "static/media/MIN - GỌI TÊN EM OFFICIAL MV.mp3": "/Music_player/static/media/MIN - GỌI TÊN EM OFFICIAL MV.bdabe97bef409264e7e2.mp3",
     "static/media/Pano - Zack Tabudlo.mp3": "/Music_player/static/media/Pano - Zack Tabudlo.2a29c314b6d42444861d.mp3",
     "static/media/MY EVERYTHING - TIÊN TIÊN.mp3": "/Music_player/static/media/MY EVERYTHING - TIÊN TIÊN.acfe76800160268ae1f2.mp3",
     "static/media/Bài Dành Cho em Bé Dâu- Moah.mp3": "/Music_player/static/media/Bài Dành Cho em Bé Dâu- Moah.448bacc8b79a5185defe.mp3",
@@ -11,7 +12,9 @@
     "static/media/Cô Gái Này Là Của Bùm-kxr, nhi nhi.mp3": "/Music_player/static/media/Cô Gái Này Là Của Bùm-kxr, nhi nhi.610185f86d5438f9eeac.mp3",
     "static/media/Until I Found You - Stephen Sanchez & Em Beihold.mp3": "/Music_player/static/media/Until I Found You - Stephen Sanchez & Em Beihold.27bf5423b53e4cf063e5.mp3",
     "static/media/11-11 (11 giờ 11 phút)- MiiNa.mp3": "/Music_player/static/media/11-11 (11 giờ 11 phút)- MiiNa.d13347058c4c569e83f6.mp3",
-    "static/media/img01.jpg": "/Music_player/static/media/img01.e6c3cbef712dcc9e38ca.jpg",
+    "static/media/bg01.jpg": "/Music_player/static/media/bg01.63134b4cb99568c85057.jpg",
+    "static/media/img10.jpg": "/Music_player/static/media/img10.e6c3cbef712dcc9e38ca.jpg",
+    "static/media/img01.jpg": "/Music_player/static/media/img01.17ba47d2642793802f09.jpg",
     "static/media/img05.jpg": "/Music_player/static/media/img05.ea1481e0a206b3ff9e1e.jpg",
     "static/media/img09.jpg": "/Music_player/static/media/img09.53afcd548e6fa64494d2.jpg",
     "static/media/img04.jpg": "/Music_player/static/media/img04.bbac81614e8d78372a0d.jpg",
@@ -20,13 +23,12 @@
     "static/media/img06.jpg": "/Music_player/static/media/img06.6e66521b30238120bdf5.jpg",
     "static/media/img02.jpg": "/Music_player/static/media/img02.9563fb44e34481617eac.jpg",
     "static/media/img07.jpg": "/Music_player/static/media/img07.773fb214876a53cc3fd8.jpg",
-    "static/media/bg02.jpg": "/Music_player/static/media/bg02.26a8b694df3069998cae.jpg",
     "index.html": "/Music_player/index.html",
-    "main.019ceee3.css.map": "/Music_player/static/css/main.019ceee3.css.map",
-    "main.ef70ab30.js.map": "/Music_player/static/js/main.ef70ab30.js.map"
+    "main.3fca341f.css.map": "/Music_player/static/css/main.3fca341f.css.map",
+    "main.203087a2.js.map": "/Music_player/static/js/main.203087a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.019ceee3.css",
-    "static/js/main.ef70ab30.js"
+    "static/css/main.3fca341f.css",
+    "static/js/main.203087a2.js"
   ]
 }
