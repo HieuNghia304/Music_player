@@ -14,7 +14,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('./assets/images/bg02.jpg');
+  background-image: url('./assets/images/bg01.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -44,12 +44,14 @@ ul{
 
 .shape-1{
   background: radial-gradient(circle at 35px 65px, #9b22ea, #005);
+  /* background: radial-gradient(circle at 35px 65px, #f75bd0, rgb(250, 185, 221)); */
   left: -65px;
   top: -65px;
 }
 
 .shape-2{
   background: radial-gradient(circle at 45px 90px, #ea22b1, #111);
+  /* background: radial-gradient(circle at 45px 90px, #f18bd4, #e793ce); */
   right: -65px;
   bottom: -65px;
 }

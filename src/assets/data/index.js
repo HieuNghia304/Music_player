@@ -1,10 +1,10 @@
 const Data = [
   {
     id: 1,
-    title: '11:11 (11 giờ 11 phút)',
-    artist: 'MiiNa',
+    title: 'Vì Em Là Cả Thế Giới',
+    artist: 'Hoàng Tôn và Yan_Bi',
     thumbnail: require('../images/img01.jpg'),
-    src: require('../musics/11-11 (11 giờ 11 phút)- MiiNa.mp3')
+    src: require('../musics/Vì Em Là Cả Thế Giới.mp3')
   },
   {
     id: 2,
@@ -20,48 +20,65 @@ const Data = [
     thumbnail: require('../images/img03.jpg'),
     src: require('../musics/Pano - Zack Tabudlo.mp3')
   },
+
   {
     id: 4,
-    title: 'It Was a Time - TrackTribe',
-    artist: 'TrackTribe',
+    title: 'Before You - Benson Boone',
+    artist: 'Benson Boone',
     thumbnail: require('../images/img04.jpg'),
-    src: require('../musics/It Was a Time - TrackTribe.mp3')
+    src: require('../musics/Before You - Benson Boone.mp3')
   },
   {
     id: 5,
-    title: 'Mulholland - King Canyon',
-    artist: 'King Canyon',
+    title: 'MY EVERYTHING',
+    artist: 'TIÊN TIÊN',
     thumbnail: require('../images/img05.jpg'),
-    src: require('../musics/Mulholland - King Canyon.mp3')
+    src: require('../musics/MY EVERYTHING - TIÊN TIÊN.mp3')
   },
   {
     id: 6,
-    title: 'No Mercy - TrackTribe',
-    artist: 'TrackTribe',
+    title: 'Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau',
+    artist: 'O.lew',
     thumbnail: require('../images/img06.jpg'),
-    src: require('../musics/No Mercy - TrackTribe.mp3')
+    src: require('../musics/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.mp3')
   },
   {
     id: 7,
-    title: 'Put It - TrackTribe',
-    artist: 'TrackTribe',
+    title: 'Một Ngày Tôi Quên-Hứa Kim Tuyền',
+    artist: 'Hứa Kim Tuyền',
     thumbnail: require('../images/img07.jpg'),
-    src: require('../musics/Put It - TrackTribe.mp3')
+    src: require('../musics/Một Ngày Tôi Quên-Hứa Kim Tuyền.mp3')
   },
   {
     id: 8,
-    title: 'Read All Over - Nathan Moore',
-    artist: 'Nathan Moore',
+    title: 'Cô Gái Này Là Của Bùm',
+    artist: 'kxr, nhi nhi',
     thumbnail: require('../images/img08.jpg'),
-    src: require('../musics/Read All Over - Nathan Moore.mp3')
+    src: require('../musics/Cô Gái Này Là Của Bùm-kxr, nhi nhi.mp3')
   },
   {
     id: 9,
-    title: 'Silver Waves - TrackTribe',
-    artist: 'TrackTribe',
+    title: 'Bài Dành Cho em Bé Dâu- Moah',
+    artist: 'Dieu Anh Muon Noi',
     thumbnail: require('../images/img09.jpg'),
-    src: require('../musics/Silver Waves - TrackTribe.mp3')
-  }
+    src: require('../musics/Bài Dành Cho em Bé Dâu- Moah.mp3')
+  },
+
+  {
+    id: 10,
+    title: '11:11 (11 giờ 11 phút)',
+    artist: 'MiiNa',
+    thumbnail: require('../images/img10.jpg'),
+    src: require('../musics/11-11 (11 giờ 11 phút)- MiiNa.mp3')
+  },
+
+  {
+    id: 11,
+    title: 'Khi Nghĩa gọi Út Nhã',
+    artist: 'Min',
+    thumbnail: require('../images/img11.jpg'),
+    src: require('../musics/MIN - GỌI TÊN EM OFFICIAL MV.mp3')
+  },
 ]
 
 
