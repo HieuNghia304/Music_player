@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/Music_player/static/css/main.3fca341f.css",
-    "main.js": "/Music_player/static/js/main.203087a2.js",
+    "main.js": "/Music_player/static/js/main.24d95727.js",
+    "static/media/Vì Em Là Cả Thế Giới.mp3": "/Music_player/static/media/Vì Em Là Cả Thế Giới.eb7b1e7a3a3366ecd440.mp3",
     "static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.mp3": "/Music_player/static/media/Một Ngày Tôi Quên-Hứa Kim Tuyền.f7b81bc4646a41285043.mp3",
     "static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.mp3": "/Music_player/static/media/Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau.139879abee18d4f0d369.mp3",
     "static/media/MIN - GỌI TÊN EM OFFICIAL MV.mp3": "/Music_player/static/media/MIN - GỌI TÊN EM OFFICIAL MV.bdabe97bef409264e7e2.mp3",
@@ -14,7 +15,7 @@
     "static/media/11-11 (11 giờ 11 phút)- MiiNa.mp3": "/Music_player/static/media/11-11 (11 giờ 11 phút)- MiiNa.d13347058c4c569e83f6.mp3",
     "static/media/bg01.jpg": "/Music_player/static/media/bg01.63134b4cb99568c85057.jpg",
     "static/media/img10.jpg": "/Music_player/static/media/img10.e6c3cbef712dcc9e38ca.jpg",
-    "static/media/img01.jpg": "/Music_player/static/media/img01.17ba47d2642793802f09.jpg",
+    "static/media/img11.jpg": "/Music_player/static/media/img11.17ba47d2642793802f09.jpg",
     "static/media/img05.jpg": "/Music_player/static/media/img05.ea1481e0a206b3ff9e1e.jpg",
     "static/media/img09.jpg": "/Music_player/static/media/img09.53afcd548e6fa64494d2.jpg",
     "static/media/img04.jpg": "/Music_player/static/media/img04.bbac81614e8d78372a0d.jpg",
@@ -22,13 +23,14 @@
     "static/media/img03.jpg": "/Music_player/static/media/img03.a46ec46eb6865e1d5d53.jpg",
     "static/media/img06.jpg": "/Music_player/static/media/img06.6e66521b30238120bdf5.jpg",
     "static/media/img02.jpg": "/Music_player/static/media/img02.9563fb44e34481617eac.jpg",
+    "static/media/img01.jpg": "/Music_player/static/media/img01.9c7520eac9e9e4e659d1.jpg",
     "static/media/img07.jpg": "/Music_player/static/media/img07.773fb214876a53cc3fd8.jpg",
     "index.html": "/Music_player/index.html",
     "main.3fca341f.css.map": "/Music_player/static/css/main.3fca341f.css.map",
-    "main.203087a2.js.map": "/Music_player/static/js/main.203087a2.js.map"
+    "main.24d95727.js.map": "/Music_player/static/js/main.24d95727.js.map"
   },
   "entrypoints": [
     "static/css/main.3fca341f.css",
-    "static/js/main.203087a2.js"
+    "static/js/main.24d95727.js"
   ]
 }
